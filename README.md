@@ -17,3 +17,13 @@ Before Handshake AI, I worked at [LinkedIn](https://www.linkedin.com) for five y
 At [Williams College 🎓](https://williams.edu), I studied political science and leadership studies. I took one semester of computer science in my senior year and loved it, and was able to continue programming through independent study and then at [Hack Reactor 🤖](https://www.hackreactor.com), an intensive software engineering bootcamp in Austin, TX.
 
 I currently live in the beautiful city of San Francisco, CA 🌉 with my partner Rebecca and our two cats, Nori and Kimchi 😻. Outside of programming, I love reading 📚, journaling 🖋️, trying new restaurants 🍲, and taking pictures around SF 📷.
+
+### Projects
+
+Here are a few projects I've worked on, both on Github and elsewhere.
+
+| Name    | Link                             | Notes                           |
+| ------- | -------------------------------- | ------------------------------- |
+| My blog | [welson.net](https://welson.net) | My personal blog built in Astro |
+
+### Tools & languages I like
