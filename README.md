@@ -31,6 +31,7 @@ Here are a few projects I've worked on, both on Github and elsewhere.
 | ------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | 🌐 My blog          | [welson.net](https://welson.net)                                      | My personal blog built in Astro                                                            |
 | 👉 Poke automations | [poke community](https://poke.community/automations/oura-ring-nudges) | A few automations I've written for [Poke](https://poke.com), the AI personal assistant app |
+| ✍️ chriszombik.com  | [link](https://chriszombik.com)                                       | A professional site & blog for the fantasy writer Chris Zombik                             |
 
 ### Tools & languages I like
 
