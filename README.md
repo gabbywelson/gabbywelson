@@ -4,7 +4,7 @@
 <p align="center">
     <!-- My site -->
     <a href="https://welson.net">
-        <img alt="Personal website" target="_blank" src="https://img.shields.io/badge/my_website-8354ab?style=for-the-badge&color=8354ab&link=https%3A%2F%2Fwelson.net"/>
+        <img alt="Personal website" target="_blank" src="https://img.shields.io/badge/my%20website-8354ab?style=for-the-badge&color=8354ab&link=https%3A%2F%2Fwelson.net"/>
     </a>
     <a href="https://x.com/gabbywelson">
         <img alt="X or Twitter" target="_blank" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&color=1DA1F2&link=https%3A%2F%2Fx.com%2Fgabbywelson"/>
