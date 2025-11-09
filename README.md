@@ -2,9 +2,13 @@
 
 <!-- Social icons -->
 <p align="center">
+    <!-- My site -->
+    <a href="https://welson.net">
+        <img alt="Static Badge" src="https://img.shields.io/badge/my_website-8354ab?style=for-the-badge&color=8354ab&link=https%3A%2F%2Fwelson.net">
+    </a>
     <!-- X/Twitter -->
     <a href="https://x.com/gabbywelson">
-        <img alt="Static Badge" src="https://img.shields.io/badge/twitter_profile-1DA1F2?style=for-the-badge&logo=x&color=1DA1F2&link=https%3A%2F%2Fx.com%2Fgabbywelson"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&color=1DA1F2&link=https%3A%2F%2Fx.com%2Fgabbywelson"/>
     </a>
     <!-- Instagram -->
     <a href="https://instagram.com/gwelson93">
@@ -22,4 +26,5 @@
     <a href="https://tacobelllabs.net/@gabby">
         <img alt="Static Badge" src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&color=6364FF&link=http%3A%2F%2Ftacobelllabs.net%2F%40gabby">
     </a>
+
 </p>
