@@ -22,8 +22,21 @@ I currently live in the beautiful city of San Francisco, CA 🌉 with my partner
 
 Here are a few projects I've worked on, both on Github and elsewhere.
 
-| Name    | Link                             | Notes                           |
-| ------- | -------------------------------- | ------------------------------- |
-| My blog | [welson.net](https://welson.net) | My personal blog built in Astro |
+| Name                | Link                                                                  | Notes                                                                                      |
+| ------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 🌐 My blog          | [welson.net](https://welson.net)                                      | My personal blog built in Astro                                                            |
+| 👉 Poke automations | [poke community](https://poke.community/automations/oura-ring-nudges) | A few automations I've written for [Poke](https://poke.com), the AI personal assistant app |
 
 ### Tools & languages I like
+
+<img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/trpc-2596BE?style=flat&logo=trpc&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/astro-BC52EE?style=flat&logo=astro&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/ruby_on_rails-D30001?style=flat&logo=rubyonrails&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/accessibility-blue?style=flat&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/claude-D97757?style=flat&logo=claude&logoColor=white">
