@@ -1,50 +1,30 @@
-## Hi there, I'm Gabby (she/her) 👋
+# Hi, I'm Gabby 🌱
 
-<!-- Social icons -->
-<p align="center">
-    <a href="https://welson.net"><img alt="Personal website" src="https://img.shields.io/badge/my%20website-8354ab?style=for-the-badge&color=8354ab"/></a>
-    <a href="https://x.com/gabbywelson"><img alt="X or Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&color=1DA1F2"/></a>
-    <a href="https://instagram.com/gwelson93"><img alt="Instagram" src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&color=FF0069"/></a>
-    <a href="https://linkedin.com/in/gabbywelson"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0064BD?style=for-the-badge&logo=linkedin&color=0064BD"/></a>
-    <a href="https://bsky.app/profile/gabby.gay"><img alt="Bluesky" src="https://img.shields.io/badge/bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=white&color=1185FE"/></a>
-    <a href="https://tacobelllabs.net/@gabby"><img alt="Mastodon" src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&color=6364FF"/></a>
-</p>
+**Software engineer, cat mom, collector of hobbies, and curious lifelong learner.**
 
-I'm a Senior Software Engineer at [Handshake AI 🤝](https://joinhandshake.com/ai), where we're building the largest network of experts to train the next generation of AI models. I'm proud to be building a product that provides real economic opportunities to students and graduates while helping to push forward the frontiers of AI models.
-
-Before Handshake AI, I worked at [LinkedIn](https://www.linkedin.com) for five years, where I build delightful user experiences on the main news feed and homepage on the web. I was fortunate to work on accessibility (a11y) extensively during my time at LinkedIn, and it was a privlege to help make our site more accessible for _everyone_.
-
-At [Williams College 🎓](https://williams.edu), I studied political science and leadership studies. I took one semester of computer science in my senior year and loved it, and was able to continue programming through independent study and then at [Hack Reactor 🤖](https://www.hackreactor.com), an intensive software engineering bootcamp in Austin, TX.
-
-I currently live in the beautiful city of San Francisco, CA 🌉 with my partner Rebecca and our two cats, Nori and Kimchi 😻. Outside of programming, I love:
-
-- reading 📚
-- journaling & stationery 🖋️
-- trying new restaurants 🍲
-- taking pictures around SF 📷
-
-### Projects
-
-Here are a few projects I've worked on, both on Github and elsewhere.
-
-| Name                | Link                                                                  | Notes                                                                                      |
-| ------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 🌐 My blog          | [welson.net](https://welson.net)                                      | My personal blog built in Astro                                                            |
-| 👉 Poke automations | [poke community](https://poke.community/automations/oura-ring-nudges) | A few automations I've written for [Poke](https://poke.com), the AI personal assistant app |
-| ✍️ chriszombik.com  | [link](https://chriszombik.com)                                       | A professional site & blog for the fantasy writer Chris Zombik                             |
-
-### Tools & languages I like
+She/her · San Francisco, with New England roots 🏳️‍⚧️
 
 <p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/trpc-2596BE?style=flat&logo=trpc&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/astro-BC52EE?style=flat&logo=astro&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ruby_on_rails-D30001?style=flat&logo=rubyonrails&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/accessibility-blue?style=flat&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/claude-D97757?style=flat&logo=claude&logoColor=white">
+  <a href="https://welson.net"><img alt="Website · welson.net" src="https://img.shields.io/badge/website-welson.net-536B57?style=flat&amp;labelColor=30382F" /></a>
+  <a href="https://www.linkedin.com/in/gabbywelson/"><img alt="LinkedIn · gabbywelson" src="https://img.shields.io/badge/LinkedIn-gabbywelson-526B83?style=flat&amp;labelColor=30382F" /></a>
+  <a href="https://bsky.app/profile/gabby.gay"><img alt="Bluesky · gabby.gay" src="https://img.shields.io/badge/Bluesky-gabby.gay-526B83?style=flat&amp;logo=bluesky&amp;logoColor=white&amp;labelColor=30382F" /></a>
+  <a href="https://tacobelllabs.net/@gabby"><img alt="Mastodon · @gabby@tacobelllabs.net" src="https://img.shields.io/badge/Mastodon-%40gabby-776286?style=flat&amp;logo=mastodon&amp;logoColor=white&amp;labelColor=30382F" /></a>
+  <a href="https://twitter.com/welson"><img alt="X / Twitter · @welson" src="https://img.shields.io/badge/X_%2F_Twitter-%40welson-74665D?style=flat&amp;logo=x&amp;logoColor=white&amp;labelColor=30382F" /></a>
 </p>
+
+I'm a **founding engineer at [Handshake AI](https://joinhandshake.com/ai)** 🤝, helping people find meaningful work training the next generation of AI models. I care about building thoughtful, accessible products that make people's lives better—from the little details of an interface to the systems underneath it.
+
+Before Handshake, I grew from an apprentice into a senior software engineer at **LinkedIn**, building experiences across the Feed. Some of the work I'm proudest of has been making software more accessible and helping engineers from nontraditional backgrounds find their footing through mentorship and the REACH apprenticeship program.
+
+My own path into tech took a few turns: political science and leadership studies at **Williams College**, work in education and solar energy, then **Hack Reactor** in Austin, where I learned to code and later taught as a Software Engineer in Residence. I still love following a good question somewhere unexpected.
+
+I enjoy working with **TypeScript, React, Next.js, Astro, tRPC, and Ruby on Rails**. I'm especially drawn to accessible interfaces, design systems, and tools that make building software a little more enjoyable.
+
+Away from the keyboard, you'll usually find me:
+
+- ☕ Tinkering with my espresso setup or cooking for friends and family.
+- 📚 Reading, journaling, collecting stationery, or wandering down a Wikipedia rabbit hole.
+- 📷 Taking photos around San Francisco and finding somewhere new to eat.
+- 🐈 Settling into a cozy game with my cats, **Nori and Kimchi**, nearby.
+
+🌷 I write, collect little curiosities, and tend to my digital garden at **[welson.net](https://welson.net)**. Make yourself at home.
